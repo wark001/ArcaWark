@@ -4,7 +4,7 @@ using System.Collections;
 public class rota : MonoBehaviour {
 	
 	public Transform thisObj;
-    public float rotSpeed = 1.0f;
+    public float rotSpeed = 2.0f;
 	
 	// Use this for initialization
 	void Start () {

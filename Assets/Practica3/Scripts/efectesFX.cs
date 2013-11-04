@@ -22,7 +22,7 @@ public class efectesFX : MonoBehaviour {
 				animacionsGuanyar();
 			}else{
 			//	print ("2bola");
-				animacionsPerdre();
+			//	animacionsPerdre();
 			}
 		}
 	}	
